@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B67,100:007ACC&height=200&section=header&text=Ali%20Muhammad%20Brohi&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Backend%20Development&descSize=15&descAlignY=58" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B67,100:007ACC&height=200&section=header&text=Ali%20Muhammad%20&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Machine%20Learning%20%7C%20Backend%20Development&descSize=15&descAlignY=58" width="100%" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alimuhammadbrohi/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/alimuhammadbrohi2006)
