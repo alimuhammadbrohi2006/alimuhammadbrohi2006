@@ -160,7 +160,7 @@ A machine learning project focused on predicting employee attrition and explorin
 
 - LinkedIn: [Ali Muhammad Brohi](https://www.linkedin.com/in/alimuhammadbrohi/)
 - GitHub: [alimuhammadbrohi2006](https://github.com/alimuhammadbrohi2006)
-- Location: Sukkur, Pakistan
+- Location: Karachi Sindh, Pakistan
 
 <div align="center">
 
